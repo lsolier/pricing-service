@@ -1,4 +1,4 @@
-package com.lsolier.udacity.princingservice;
+package com.lsolier.udacity.pricingservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
